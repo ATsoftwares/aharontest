@@ -1,0 +1,4 @@
+cache:
+  time-to-live: 30000
+  size: 100
+  cache-interval: 2000
